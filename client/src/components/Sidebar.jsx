@@ -51,7 +51,7 @@ const navItems = [
     icon: <Groups2Outlined />,
   },
   {
-    text: "Transações",
+    text: "Transacoes",
     icon: <ReceiptLongOutlined />,
   },
   {
@@ -67,15 +67,15 @@ const navItems = [
     icon: <PointOfSaleOutlined />,
   },
   {
-    text: "Relatório diário",
+    text: "Diario",
     icon: <TodayOutlined />,
   },
   {
-    text: "Relatório mensal",
+    text: "Mensal",
     icon: <CalendarMonthOutlined />,
   },
   {
-    text: "Gerenciamento",
+    text: "Detalhado",
     icon: <PieChartOutlined />,
   },
   {
