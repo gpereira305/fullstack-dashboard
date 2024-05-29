@@ -135,7 +135,7 @@ export default function Sidebar({
                   ECOMVISION
                 </Typography>
               </Box>
-              {!isMobile && (
+              {isMobile && (
                 <IconButton onClick={() => setSidebarOpen(!sidebarOpen)}>
                   <ChevronLeft />
                 </IconButton>
